@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaisreera&show_icons=true&locale=en" alt="jaisreera" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisreera&" alt="jaisreera" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaisreera&" alt="jaisreera" /></div>
