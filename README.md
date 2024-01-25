@@ -1,4 +1,3 @@
-![FullStack Web Developer](https://github.com/ajaykumar2pp/ajaykumar2pp/assets/102378038/450817bb-71aa-480d-a4b0-86fb3f7cd536)
 
 <h1 align="center">Hi 👋, I'm Rahul kumar shaw</h1>
 
